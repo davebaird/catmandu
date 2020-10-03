@@ -1,0 +1,32 @@
+# This is just a selection of what's available
+# Or better, see the  Task-Catmandu cpanfile
+requires 'Catmandu::Exporter::Table';
+requires 'Catmandu::DBI';
+requires 'Catmandu::HTML';
+requires 'Catmandu::I18N';
+requires 'Catmandu::LDAP';
+requires 'Catmandu::PLoS';
+requires 'Catmandu::Stat';
+requires 'Catmandu::ArXiv';
+requires 'Catmandu::BibTeX';
+requires 'Catmandu::PubMed';
+requires 'Catmandu::Geocode';
+requires 'Catmandu::Markdown';
+requires 'Catmandu::Template';
+requires 'Catmandu::Wikidata';
+requires 'Catmandu::MediaWiki';
+requires 'Catmandu::Identifier';
+requires 'Catmandu::Fix::cmd';
+requires 'Catmandu::Fix::Date';
+requires 'Catmandu::Fix::File';
+requires 'Catmandu::Store::CHI';
+requires 'Catmandu::Store::REST';
+requires 'Catmandu::Fix::Datahub';
+requires 'Catmandu::Importer::PDF';
+requires 'Catmandu::Fix::get_json';
+requires 'Catmandu::Importer::CPAN';
+requires 'Catmandu::Importer::Twitter';
+requires 'Catmandu::Importer::ApacheLog';
+requires 'Catmandu::Serializer::storable';
+requires 'Catmandu::Validator::JSONSchema';
+requires 'Catmandu::Exporter::YAML';
