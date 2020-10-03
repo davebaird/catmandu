@@ -7,3 +7,4 @@
         | jq '[.[0].entry[]]' \
         | catmandu convert JSON to YAML \
         | hicat
+
